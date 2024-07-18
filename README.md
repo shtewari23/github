@@ -60,8 +60,7 @@ currentPage: Stores the current page number for pagination.
 
 ## Components
 
-###Home: The main component that contains the user profile section, search and sort functionality, and the repository list with pagination controls.
-###Utility Functions
+Home: The main component that contains the user profile section, search and sort functionality, and the repository list with pagination controlsUtility Functions
 fetchRepositories: Fetches the list of repositories from GitHub.
 handleSearch: Filters the repositories based on the search term.
 handleSort: Sorts the repositories based on the selected sort option.
